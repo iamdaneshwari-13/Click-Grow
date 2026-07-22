@@ -106,3 +106,5 @@ To run the automated test suite:
 ```bash
 python manage.py test
 ```
+>made with codex
+> By Daneshwari
